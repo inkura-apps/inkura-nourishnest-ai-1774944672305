@@ -1,0 +1,562 @@
+{
+  "home": [
+    {
+      "type": "card_grid",
+      "heading": "Today's Meal Plan",
+      "subtext": "Quickly see what's for dinner and plan your week ahead.",
+      "button_text": "View Entire Week",
+      "items": [
+        "Dinner: Easy One-Pan Lemon Herb Chicken & Veggies",
+        "Upcoming: Tuesday - Beef & Broccoli Stir-Fry",
+        "Upcoming: Wednesday - Pasta with Hidden Veggie Sauce"
+      ]
+    },
+    {
+      "type": "card_grid",
+      "heading": "Quick Access",
+      "subtext": "Jump straight to your most used features.",
+      "items": [
+        "Generate New Plan",
+        "Grocery List",
+        "Recipes",
+        "My Profile"
+      ]
+    },
+    {
+      "type": "card_grid",
+      "heading": "Family Fuel Tips",
+      "subtext": "Smart suggestions to make mealtime even easier.",
+      "items": [
+        "Ingredient Alert: Expiring Soon!",
+        "Cooking Tip: Weekend Batch Prep",
+        "Did You Know?"
+      ]
+    }
+  ],
+  "onboarding": [
+    {
+      "type": "hero",
+      "heading": "Welcome to Family Fuel!",
+      "subtext": "Your AI-powered meal planning assistant to conquer the 'what's for dinner?' dilemma and reclaim your time.",
+      "button_text": "Let's Get Started"
+    },
+    {
+      "type": "form",
+      "heading": "Tell us about your family.",
+      "subtext": "This helps us tailor meal plans perfectly for your household.",
+      "button_text": "Next: Dietary Needs",
+      "fields": [
+        "How many people are in your household?",
+        "How many children do you have?",
+        "Ages of children (optional)"
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Any specific dietary preferences?",
+      "subtext": "Select all that apply to anyone in your family.",
+      "button_text": "Next: Allergies",
+      "items": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free",
+        "Dairy-Free",
+        "Pescatarian",
+        "Keto"
+      ]
+    },
+    {
+      "type": "form",
+      "heading": "Any allergies we should know about?",
+      "subtext": "Please list any food allergies for each family member to ensure safe meal planning.",
+      "button_text": "Next: Dislikes",
+      "fields": [
+        "Family Member 1: Allergies (e.g., Peanuts, Shellfish)",
+        "Family Member 2: Allergies (e.g., Dairy, Wheat)",
+        "Additional Family Members (optional): Allergies"
+      ]
+    },
+    {
+      "type": "form",
+      "heading": "What ingredients or foods does your family dislike?",
+      "subtext": "Tell us what to avoid. You can be as specific as you like (e.g., 'cilantro', 'broccoli', 'spicy food').",
+      "button_text": "Next: Meal Frequency",
+      "fields": [
+        "Common dislikes (e.g., Mushrooms, Olives)",
+        "Specific ingredients to avoid"
+      ]
+    },
+    {
+      "type": "form",
+      "heading": "How do you typically plan your meals?",
+      "subtext": "Help us understand your family's eating habits.",
+      "button_text": "Next: Cooking Style",
+      "fields": [
+        "Which meals do you want Family Fuel to plan for?",
+        "How many dinners per week do you cook at home?",
+        "Are snacks important for your plan?"
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "What's your preferred cooking style?",
+      "subtext": "Select the methods you enjoy or find convenient.",
+      "button_text": "Finish Setup",
+      "items": [
+        "Quick & Easy (30 min or less)",
+        "Slow Cooker Wonders",
+        "Oven-Baked Meals",
+        "One-Pot/One-Pan",
+        "Grilling & BBQ"
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "You're All Set!",
+      "subtext": "We've gathered everything we need to start crafting delicious, stress-free meal plans for your family. Get ready to reclaim your dinner time!",
+      "button_text": "Go to My Dashboard"
+    }
+  ],
+  "meal_planning": [
+    {
+      "type": "card_grid",
+      "heading": "Your Weekly Meal Plan",
+      "subtext": "Effortlessly manage your family's meals for the week ahead. Adjust or swap any meal with ease.",
+      "button_text": "View Full Week",
+      "items": [
+        "Monday: Chicken & Veggie Pasta",
+        "Tuesday: Speedy Fish Tacos",
+        "Wednesday: Lentil Soup with Crusty Bread"
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Customize Your Plan",
+      "subtext": "Make your meal plan perfect for your family's needs. Change ingredients, swap recipes, or add your own family favorites.",
+      "button_text": "Generate New Plan"
+    }
+  ],
+  "generate_new_plan": [
+    {
+      "type": "form",
+      "heading": "New Plan Preferences",
+      "subtext": "Tailor your next meal plan to fit your family's needs perfectly. You can always edit your plan later.",
+      "button_text": "Generate My Plan",
+      "fields": [
+        "Plan Duration",
+        "Number of Dinners",
+        "Dietary Requirements",
+        "Allergies/Food Sensitivities",
+        "Ingredients to Include",
+        "Ingredients to Exclude",
+        "Cuisine Preferences",
+        "Cooking Time Preference"
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Your New Weekly Meal Plan",
+      "subtext": "Take a look at what we've cooked up for you! Review the meals and make any adjustments before saving.",
+      "button_text": "Save Plan",
+      "items": [
+        "Monday: Speedy Chicken & Veggie Stir-fry",
+        "Tuesday: Cheesy Beef & Bean Tacos",
+        "Wednesday: One-Pan Salmon with Roasted Asparagus"
+      ]
+    }
+  ],
+  "meal_details": [
+    {
+      "type": "card_grid",
+      "heading": "Hearty Chicken & Veggie Stir-Fry",
+      "subtext": "A quick and healthy family favorite, packed with colorful vegetables and lean protein. Perfect for a busy weeknight!",
+      "button_text": "View Full Instructions",
+      "items": [
+        "Prep Time: 15 min",
+        "Cook Time: 20 min",
+        "Servings: 4-6"
+      ]
+    },
+    {
+      "type": "form",
+      "heading": "Your Thoughts on This Recipe",
+      "subtext": "Share your experience or add personal notes for next time.",
+      "button_text": "Save Notes & Rating",
+      "fields": [
+        "Your Rating (1-5 Stars)",
+        "Add Your Notes"
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Manage This Meal",
+      "subtext": "Ready to get cooking or adjust your plan?",
+      "button_text": "Cook Now"
+    }
+  ],
+  "swap_meal": [
+    {
+      "type": "card_grid",
+      "heading": "Swap Out: Quick & Easy Alternatives for Selected Meal",
+      "subtext": "We've found a few delicious options that fit your family's preferences and dietary needs. Pick the one you like best to replace your current meal.",
+      "button_text": "Select for Meal Plan",
+      "items": [
+        "Speedy Chicken & Veggie Stir-fry",
+        "Creamy Tomato Pasta with Hidden Veggies",
+        "Sheet Pan Lemon Herb Salmon & Asparagus"
+      ]
+    }
+  ],
+  "grocery_list": [
+    {
+      "type": "list",
+      "heading": "Your Smart Grocery List",
+      "subtext": "Automatically generated from your meal plan. Tap to check off items as you shop!",
+      "items": [
+        "Produce: 1x Organic kale, 2x Ripe avocados, 1 lb Strawberries",
+        "Dairy & Eggs: 1 dozen Large eggs, 1 gallon 2% Milk, 8 oz Shredded cheddar",
+        "Pantry: 1x Whole wheat pasta, 1 can Crushed tomatoes, 1x Olive oil (refill)"
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "List Options",
+      "button_text": "Edit List",
+      "items": [
+        "Add Custom Item",
+        "Export List (Email/Print)",
+        "Clear Checked Items"
+      ]
+    },
+    {
+      "type": "card_grid",
+      "heading": "Don't Forget These!",
+      "subtext": "Family Fuel learns your habits and suggests items you often buy outside of meal ingredients. Add them to your list with one tap!",
+      "button_text": "Add All Suggestions",
+      "items": [
+        "Coffee Beans (12 oz)",
+        "Paper Towels (6-roll pack)",
+        "Kids' Snack Pouches (apple sauce)"
+      ]
+    }
+  ],
+  "recipe_library": [
+    {
+      "type": "form",
+      "heading": "Find Your Next Family Favorite!",
+      "subtext": "Explore recipes from your personal creations or AI-generated suggestions.",
+      "button_text": "Apply Filters",
+      "fields": [
+        "Search all recipes (e.g., chicken, pasta, quick)",
+        "Dietary Needs (e.g., Gluten-Free, Vegetarian)",
+        "Cuisine Type (e.g., Italian, Mexican, Asian)",
+        "Meal Type (e.g., Breakfast, Dinner, Snack)",
+        "Prep Time (e.g., < 30 min, 30-60 min)",
+        "Difficulty Level (e.g., Easy, Moderate, Advanced)",
+        "Source (e.g., My Recipes, AI-Generated)"
+      ]
+    },
+    {
+      "type": "card_grid",
+      "heading": "All Recipes",
+      "subtext": "Browse a delicious collection of recipes tailored for busy families.",
+      "button_text": "View Recipe",
+      "items": [
+        "Speedy Chicken Stir-Fry",
+        "One-Pot Tomato Pasta",
+        "Kid-Friendly Sweet Potato Fries"
+      ]
+    }
+  ],
+  "single_recipe_view": [
+    {
+      "type": "nav",
+      "heading": "Family Fuel",
+      "items": [
+        "Meal Plans",
+        "Recipes",
+        "Grocery List",
+        "Profile"
+      ]
+    },
+    {
+      "type": "image"
+    },
+    {
+      "type": "text",
+      "heading": "One-Pan Lemon Herb Chicken & Veggies",
+      "subtext": "A quick and healthy weeknight meal that's a hit with both kids and adults. Featuring tender chicken, roasted potatoes, and vibrant broccoli, all seasoned with bright lemon and savory herbs."
+    },
+    {
+      "type": "stats",
+      "heading": "Quick Glance",
+      "items": [
+        "Prep Time: 15 min",
+        "Cook Time: 25 min",
+        "Servings: 4",
+        "Difficulty: Easy"
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Ingredients You'll Need",
+      "subtext": "Make sure to have these on hand before you start cooking!",
+      "button_text": "Add to Grocery List",
+      "items": [
+        "1.5 lbs boneless, skinless chicken thighs",
+        "1 lb small potatoes, quartered",
+        "1 head broccoli, cut into florets",
+        "2 tbsp olive oil",
+        "1 lemon, thinly sliced & juiced",
+        "2 cloves garlic, minced",
+        "1 tsp dried oregano",
+        "1/2 tsp dried thyme",
+        "Salt and black pepper to taste"
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "How to Make It",
+      "subtext": "Follow these simple steps for a perfect meal.",
+      "button_text": "Mark as Made",
+      "items": [
+        "1. Preheat oven to 400°F (200°C).",
+        "2. In a large bowl, combine chicken, potatoes, broccoli, olive oil, lemon juice, minced garlic, oregano, thyme, salt, and pepper. Toss to evenly coat.",
+        "3. Spread the mixture in a single layer on a large baking sheet. Arrange lemon slices over the chicken.",
+        "4. Bake for 25-30 minutes, or until chicken is cooked through and vegetables are tender-crisp. Broil for 2-3 minutes at the end for extra crispiness, if desired.",
+        "5. Serve immediately and enjoy your delicious meal!"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Nutrition Facts (per serving, estimated)",
+      "subtext": "Calories: 420, Protein: 38g, Carbs: 32g, Fat: 18g. (Note: These are estimates and may vary based on ingredients used.)"
+    },
+    {
+      "type": "card_grid",
+      "heading": "You Might Also Like",
+      "subtext": "Explore other family-friendly and quick-to-make dishes.",
+      "items": [
+        "Sweet Potato & Black Bean Tacos",
+        "Speedy Spinach & Artichoke Pasta",
+        "Simple Salmon with Roasted Asparagus"
+      ]
+    },
+    {
+      "type": "footer",
+      "heading": "Family Fuel © 2024",
+      "subtext": "All rights reserved.",
+      "items": [
+        "Privacy Policy",
+        "Terms of Service",
+        "Contact Us"
+      ]
+    }
+  ],
+  "add_edit_recipe": [
+    {
+      "type": "form",
+      "heading": "Add New Recipe",
+      "subtext": "Share your family's favorite meals with Family Fuel! Fill out the details below to add your special recipe.",
+      "button_text": "Save Recipe",
+      "fields": [
+        "Recipe Name",
+        "Description",
+        "Servings",
+        "Prep Time (minutes)",
+        "Cook Time (minutes)",
+        "Cuisine / Category",
+        "Difficulty Level",
+        "Ingredients",
+        "Instructions",
+        "Notes / Tips",
+        "Upload Photos"
+      ]
+    }
+  ],
+  "my_profile": [
+    {
+      "type": "form",
+      "heading": "Account Information",
+      "subtext": "Manage your personal details and subscription status.",
+      "button_text": "Save Changes",
+      "fields": [
+        "First Name",
+        "Last Name",
+        "Email Address",
+        "Password"
+      ]
+    },
+    {
+      "type": "form",
+      "heading": "Family Configuration",
+      "subtext": "Update your household's dietary preferences, allergies, and ingredient dislikes. These settings directly influence your meal plans.",
+      "button_text": "Update Family Profile",
+      "fields": [
+        "Number of Adults",
+        "Number of Children (ages 0-5)",
+        "Children (ages 6-12)",
+        "Allergies (e.g., Peanuts, Dairy)",
+        "Dislikes (e.g., Cilantro, Olives)",
+        "Dietary Preferences (e.g., Vegetarian, Gluten-Free)"
+      ]
+    },
+    {
+      "type": "form",
+      "heading": "App Settings",
+      "subtext": "Customize your Family Fuel experience, from notifications to how your meal plans are generated.",
+      "button_text": "Save Settings",
+      "fields": [
+        "Email Notifications (Weekly Meal Plan, New Recipes)",
+        "Push Notifications (Meal Reminders, Shopping List Updates)",
+        "Meal Plan Generation Frequency (Weekly, Bi-Weekly)",
+        "Preferred Grocery Stores (e.g., Whole Foods, Trader Joe's, Local Market)"
+      ]
+    },
+    {
+      "type": "form",
+      "heading": "Billing & Subscription",
+      "subtext": "View your subscription details, manage your payment method, and review billing history.",
+      "button_text": "Manage Plan",
+      "fields": [
+        "Current Plan",
+        "Next Billing Date",
+        "Payment Method (ends in **** 1234)"
+      ]
+    }
+  ],
+  "feedback_support": [
+    {
+      "type": "list",
+      "heading": "Frequently Asked Questions",
+      "subtext": "Have a question? We might have already answered it here. Browse our common queries below.",
+      "items": [
+        "How do I customize my meal plan preferences?",
+        "Can I add my own recipes to Family Fuel?",
+        "What if I have an allergy not listed?"
+      ]
+    },
+    {
+      "type": "form",
+      "heading": "Still Need Help? Contact Us",
+      "subtext": "If you couldn't find your answer in our FAQs, please fill out the form below and we'll get back to you as soon as possible.",
+      "button_text": "Send Message",
+      "fields": [
+        "Your Name",
+        "Your Email",
+        "Subject",
+        "Your Message"
+      ]
+    }
+  ],
+  "privacy_terms": [
+    {
+      "type": "text",
+      "heading": "Family Fuel Privacy Policy",
+      "subtext": "Effective Date: October 26, 2023\n\nWelcome to Family Fuel! Your privacy is of paramount importance to us. This Privacy Policy describes how Family Fuel (referred to as “we,” “us,” or “our”) collects, uses, and discloses information about you when you use our mobile application and related services (collectively, the “Service”).\n\nBy accessing or using the Service, you signify that you have read, understood, and agree to our collection, storage, use, and disclosure of your personal information as described in this Privacy Policy. If you do not agree with the terms of this policy, please do not access or use the Service.\n\n**1. Information We Collect**\n\nWe collect information in a few ways: directly from you, from third-party sources, and through automated technologies.\n\n*   **Information You Provide to Us:**\n    *   **Account Information:** When you create an account, we ask for your name, email address, password, and optionally, family size.\n    *   **Profile Information:** You may choose to provide additional information such as dietary preferences (e.g., vegetarian, gluten-free), allergies (e.g., nuts, dairy), number and age range of children, typical meal times, and preferred cooking styles.\n    *   **Meal Plan & Recipe Feedback:** We collect information about your interactions with meal plans and recipes, including saved recipes, ratings, modifications, and comments. This helps us personalize future recommendations.\n    *   **Communications:** If you contact us directly, we may receive additional information about you, such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you choose to provide.\n    *   **Payment Information:** If you subscribe to a premium service, our third-party payment processor will collect payment information. We do not store full payment card details on our servers.\n\n*   **Information We Collect Automatically:**\n    *   **Usage Data:** We collect information about your activity on the Service, such as the features you use, the time, frequency, and duration of your activities. This includes recipes viewed, meal plans generated, and grocery lists created.\n    *   **Device Information:** We collect information about the device you use to access the Service, including the hardware model, operating system and version, unique device identifiers, and mobile network information.\n    *   **Log Data:** Our servers automatically record information that your browser or device sends whenever you use our Service. This log data may include your IP address, browser type and settings, the date and time of your use, and cookie data.\n    *   **Location Information:** We may derive your approximate location from your IP address.\n\n*   **Information from Third Parties:**\n    *   We may receive information about you from third-party services, such as social media platforms, if you choose to link your Family Fuel account with those services. The data we receive is dependent upon your privacy settings with those third-party services."
+    },
+    {
+      "type": "text",
+      "heading": "Family Fuel Terms of Service",
+      "subtext": "Last Updated: October 26, 2023\n\nPlease read these Terms of Service (“Terms”) carefully before using the Family Fuel mobile application and related services (collectively, the “Service”) operated by Family Fuel (“us,” “we,” or “our”).\n\nYour access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users, and others who access or use the Service. By accessing or using the Service, you agree to be bound by these Terms. If you disagree with any part of the terms, then you may not access the Service.\n\n**1. Accounts**\n\nWhen you create an account with us, you must provide us with information that is accurate, complete, and current at all times. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of your account on our Service.\n\nYou are responsible for safeguarding the password that you use to access the Service and for any activities or actions under your password, whether your password is with our Service or a third-party service.\n\nYou agree not to disclose your password to any third party. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.\n\nYou may not use as a username the name of another person or entity or that is not lawfully available for use, a name or trademark that is subject to any rights of another person or entity other than you without appropriate authorization, or a name that is otherwise offensive, vulgar or obscene.\n\n**2. Subscriptions & Payments**\n\nSome parts of the Service are billed on a subscription basis (“Subscription(s)”). You will be billed in advance on a recurring and periodic basis (such as weekly, monthly, or annually), depending on the type of Subscription plan you select when purchasing a Subscription.\n\nAt the end of each period, your Subscription will automatically renew under the exact same conditions unless you cancel it or Family Fuel cancels it.\n\n*   **Subscription Cancellation:** You may cancel your Subscription renewal either through your account management page or by contacting Family Fuel customer support. Such cancellation will take effect at the end of the then-current Subscription period.\n\n*   **Refunds:** Except when required by law, paid Subscription fees are non-refundable."
+    }
+  ],
+  "auth": [
+    {
+      "type": "hero",
+      "heading": "Welcome to Family Fuel",
+      "subtext": "Reclaim your time, simplify meal planning, and nourish your family with ease."
+    },
+    {
+      "type": "form",
+      "items": [
+        "Sign In",
+        "Create Account"
+      ]
+    },
+    {
+      "type": "form",
+      "heading": "Sign In to Your Account",
+      "subtext": "Plan smarter meals, effortlessly.",
+      "button_text": "Sign In",
+      "fields": [
+        "Email Address",
+        "Password"
+      ]
+    },
+    {
+      "type": "text",
+      "subtext": "Forgot your password?"
+    },
+    {
+      "type": "cta",
+      "heading": "Or continue with",
+      "button_text": "Sign In with Google"
+    },
+    {
+      "type": "form",
+      "heading": "Create Your Family Fuel Account",
+      "subtext": "Start building your stress-free meal plans today.",
+      "button_text": "Create Account",
+      "fields": [
+        "Full Name",
+        "Email Address",
+        "Create Password",
+        "Confirm Password"
+      ]
+    },
+    {
+      "type": "text",
+      "subtext": "By creating an account, you agree to our Terms of Service and Privacy Policy."
+    }
+  ],
+  "login": [
+    {
+      "type": "form",
+      "heading": "Welcome Back to Family Fuel!",
+      "subtext": "Sign in to access your personalized meal plans, grocery lists, and family-friendly recipes.",
+      "button_text": "Log In",
+      "fields": [
+        "Email Address",
+        "Password"
+      ]
+    }
+  ],
+  "signup": [
+    {
+      "type": "form",
+      "heading": "Join Family Fuel and Reclaim Your Evenings!",
+      "subtext": "Create an account to start planning stress-free, healthy meals for your family.",
+      "button_text": "Sign Up",
+      "fields": [
+        "Email address",
+        "Password",
+        "Confirm password"
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Or sign up with",
+      "button_text": "Continue with Google"
+    },
+    {
+      "type": "cta",
+      "button_text": "Continue with Apple"
+    },
+    {
+      "type": "text",
+      "subtext": "Already have an account? Log In"
+    }
+  ],
+  "forgot_password": [
+    {
+      "type": "form",
+      "heading": "Forgot Your Password?",
+      "subtext": "No worries! Enter your email address below and we'll send you a link to reset your password.",
+      "button_text": "Send Reset Link",
+      "fields": [
+        "Email Address"
+      ]
+    }
+  ]
+}

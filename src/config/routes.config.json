@@ -1,0 +1,112 @@
+{
+  "app_name": "NourishNest AI",
+  "pages": [
+    {
+      "id": "home",
+      "name": "Home",
+      "path": "/",
+      "children": [
+        {
+          "id": "onboarding",
+          "name": "Onboarding",
+          "path": "//onboarding",
+          "children": []
+        },
+        {
+          "id": "meal_planning",
+          "name": "Meal Planning",
+          "path": "//meal-planning",
+          "children": [
+            {
+              "id": "generate_new_plan",
+              "name": "Generate New Plan",
+              "path": "//meal-planning/generate-new-plan",
+              "children": []
+            },
+            {
+              "id": "meal_details",
+              "name": "Meal Details",
+              "path": "//meal-planning/meal-details",
+              "children": []
+            },
+            {
+              "id": "swap_meal",
+              "name": "Swap Meal",
+              "path": "//meal-planning/swap-meal",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "grocery_list",
+          "name": "Grocery List",
+          "path": "//grocery-list",
+          "children": []
+        },
+        {
+          "id": "recipe_library",
+          "name": "Recipe Library",
+          "path": "//recipe-library",
+          "children": [
+            {
+              "id": "single_recipe_view",
+              "name": "Single Recipe View",
+              "path": "//recipe-library/single-recipe-view",
+              "children": []
+            },
+            {
+              "id": "add_edit_recipe",
+              "name": "Add/Edit My Recipe",
+              "path": "//recipe-library/add-edit-my-recipe",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "my_profile",
+          "name": "My Profile & Settings",
+          "path": "//my-profile-settings",
+          "children": [
+            {
+              "id": "feedback_support",
+              "name": "Feedback & Support",
+              "path": "//my-profile-settings/feedback-support",
+              "children": []
+            },
+            {
+              "id": "privacy_terms",
+              "name": "Privacy Policy & Terms of Service",
+              "path": "//my-profile-settings/privacy-policy-terms-of-service",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "auth",
+      "name": "Authentication",
+      "path": "/authentication",
+      "children": [
+        {
+          "id": "login",
+          "name": "Login",
+          "path": "/authentication/login",
+          "children": []
+        },
+        {
+          "id": "signup",
+          "name": "Sign Up",
+          "path": "/authentication/sign-up",
+          "children": []
+        },
+        {
+          "id": "forgot_password",
+          "name": "Forgot Password",
+          "path": "/authentication/forgot-password",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

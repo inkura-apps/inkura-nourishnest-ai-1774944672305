@@ -1,0 +1,23 @@
+{
+  "logo_url": null,
+  "palette": {
+    "primary": "#1a365d",
+    "secondary": "#2b6cb0",
+    "accent": "#63b3ed",
+    "background": "#bee3f8",
+    "text": "#1e293b",
+    "text_muted": "#64748b",
+    "surface": "#ffffff",
+    "border": "#e2e8f0"
+  },
+  "fonts": {
+    "heading": "Nunito",
+    "body": "Open Sans"
+  },
+  "density": {
+    "section_padding": "6rem",
+    "element_gap": "2rem",
+    "border_radius": "1rem",
+    "container_max_width": "1200px"
+  }
+}
